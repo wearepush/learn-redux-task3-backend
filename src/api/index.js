@@ -5,7 +5,7 @@ import userId1 from '../fakeData/userId1';
 import facets from './facets';
 
 function checkCredentials(body) {
-	if (body.email === 'max@test.com' && body.password === '12345') {
+	if (body.email === 'admin@test.com' && body.password === '12345') {
 		return true
 	}
 	return false

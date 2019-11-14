@@ -3,6 +3,14 @@
   "data": {
     "id": 1,
     "fname": "Liam",
-    "lname": "Whaley"
+    "lname": "Whaley",
+    "socials": [
+      {
+        "youtube": "https://www.youtube.com/watch?v=jhTlUxmrts0",
+        "instagram": "https://www.instagram.com/liamwhaley/",
+        "web": "https://www.f-one.world/rider/liam-whaley/",
+        "facebook": "https://www.facebook.com/LiamWhaleyOfficialFanPage/"
+      }
+    ]
   }
 }
