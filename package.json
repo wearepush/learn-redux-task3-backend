@@ -1,5 +1,5 @@
 {
-  "name": "backend-tz-2",
+  "name": "learn-redux-task3-backend",
   "version": "0.0.3",
   "description": "Simple Express REST API for backend side for test task 2",
   "main": "dist",
