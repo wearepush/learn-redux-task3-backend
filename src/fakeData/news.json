@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": 1,
+      "title": "Philosophy",
+      "slug": "philosophy",
+      "text": "Since 1994, we work very hard – not only to produce the most advanced technical products – but also to create the most enjoyable gear that will allow us and all our riders to feel the thrill of riding"
+    },
+    {
+      "id": 2,
+      "title": "Innovation",
+      "slug": "innovation",
+      "text": "R&D is at the very core of everything we do at F-ONE, since the very beginning we have always strived to have the best products on the market. In order to achieve that goal, we have to continually innovate and build equipment that meets up to our exceedingly high standards. We are all riders, and we all want to be using the best gear."
+    }
+  ]
+}
