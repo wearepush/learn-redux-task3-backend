@@ -5,7 +5,7 @@
 ```js
 // Корневой адрес API: http://localhost:8080/api/v1
 
-// POST /validate (введены корректные данные: username = 'max', password = '12345'
+// POST /validate (введены корректные данные: email = 'admin@test.com', password = '12345'
 {
   "status": "ok",
   "data": {
