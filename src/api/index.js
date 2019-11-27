@@ -30,7 +30,7 @@ export default ({ config, db }) => {
 				}
 			})
 		}
-		res.json({
+		res.status(401).json({
 			"status": "err",
 			"message": "wrong_email_or_password"
 		})
@@ -44,7 +44,7 @@ export default ({ config, db }) => {
 		if (parseInt(req.params.id) === 1) {
 			return res.json(userId1);
 		}
-		res.json({
+		res.status(204).json({
 			"status": "err",
 			"message": "user_not_found",
 		})
